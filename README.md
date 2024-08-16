@@ -1,4 +1,3 @@
-```markdown
 # Graph Analysis Tool
 
 Este projeto em Rust realiza análises detalhadas em grafos, incluindo o cálculo de métricas de rede como grau médio, coeficiente de agrupamento médio, e distância média. Além disso, ele gera gráficos visuais, como a distribuição de graus e uma visualização da centralidade de grau, utilizando as bibliotecas **petgraph**, **rayon**, e **plotters**.
